@@ -1,0 +1,10 @@
+单图演示
+<a href="cb_sample_01_tn.jpg" title="1" rel="clearbox"><img src="cb_sample_01_tn.jpg" /></a>
+
+组图演示
+<a href="cb_sample_01.jpg" rel="clearbox[gallery=组名,,title=标题]"><img src="cb_sample_01_tn.jpg" /></a>
+
+<a href="cb_sample_05.jpg" rel="clearbox[gallery=组名,title=标题]"><img src="cb_sample_05_tn.jpg" /></a>
+
+视频
+<a href="cb_sample_01.jpg" rel="clearbox[gallery=组名,,title=标题,,width=宽度,,height=高度]"><img src="cb_sample_01_tn.jpg" /></a>
